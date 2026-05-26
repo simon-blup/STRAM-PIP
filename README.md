@@ -1,8 +1,8 @@
-# STREAMPIP
+# STREAM-PIP
 
 **Enhanced Picture-in-Picture for Twitch and YouTube.**
 
-STREAMPIP integrates Twitch chat and YouTube comments directly into your Picture-in-Picture window. Watch your favorite content without missing a single message.
+STREAM-PIP integrates Twitch chat and YouTube comments directly into your Picture-in-Picture window. Watch your favorite content without missing a single message.
 
 ![Preview](download.gif)
 
