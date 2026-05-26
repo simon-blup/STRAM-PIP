@@ -20,7 +20,7 @@
     * Open Google Chrome and navigate to `chrome://extensions/`.
     * Toggle <u>**Developer mode**</u> (top right corner).
     * Click <u>**Load unpacked**</u> and select the extracted folder.
-4. **Open**: 
+4. **Open**: Select any YouTube video or Twitch live stream and click the PiP button located in the lower left corner of the page.
 <br>
 <div align="center">
 
